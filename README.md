@@ -1,3 +1,5 @@
+Updated for latest Powershell, PowerCLI and PowerNSX
+
 # PowerCLI Core
 
 ## Welcome!
