@@ -1,7 +1,9 @@
 virt.ninja: Updated for latest Powershell, PowerCLI and PowerNSX
 
 Powershell Version: todo
+
 PowerCLI Version:   12.0.0.15947286
+
 PowerNSX Version:   todo
 
 Add my own scripts: todo
