@@ -4,8 +4,8 @@ virt.ninja: Updated for latest versions
     PowerCLI Version:     12.0.0.15947286
     PowerNSX Version:     3.0.1174
     PowerVRA Version:     4.0.0
-
-Add my own scripts: todo
+    Add my own scripts:   todo
+    Add vGhetto v7 lab:   todo
 
 # PowerCLI Core
 
