@@ -1,4 +1,4 @@
-virt.ninja: Updated for latest Powershell, PowerCLI and PowerNSX
+virt.ninja: Updated for latest versions
 
 Powershell Version: todo
 
