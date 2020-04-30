@@ -4,7 +4,9 @@ Powershell Version: todo
 
 PowerCLI Version:   12.0.0.15947286
 
-PowerNSX Version:   todo
+PowerNSX Version:   3.0.1174
+
+PowerVRA Version:    4.0.0
 
 Add my own scripts: todo
 
