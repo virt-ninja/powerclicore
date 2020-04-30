@@ -1,11 +1,17 @@
 virt.ninja: Updated for latest versions
 
-    Powershell Version:   todo
-    PowerCLI Version:     12.0.0.15947286
-    PowerNSX Version:     3.0.1174
-    PowerVRA Version:     4.0.0
-    Add my own scripts:   todo
-    Add vGhetto v7 lab:   todo
+    Powershell Version:                  to do # may be an issue here, see https://github.com/dcasota/photonos-scripts
+    PowerCLI Version:                    12.0.0.15947286
+    PowerNSX Version:                    3.0.1174
+    PowerVRA Version:                    4.0.0
+    Add workstation/fusion support:      4.5.3.1 # see https://github.com/bottkars/vmxtoolkit
+    Add my own scripts:                  to do
+    Add my fork of vGhetto v7 lab:       done # /root/vghetto-vsphere-with-kubernetes-external-nsxt-lab-deployment.ps1
+    Add folder to mount ovas:            to do
+    Update lamw script to ova folder:    to do
+    create variants on lamw for minimal: to do
+    create variants on lamw for fusion:  to do
+
 
 # PowerCLI Core
 
